@@ -2,7 +2,7 @@
 title: About
 ---
 
-## Me
+## About Me
 
 I started improvising in 2013, and have trained and performed at the top theaters in Chicago: Second City, iO, CIC, and more.
 
@@ -10,7 +10,7 @@ I have taught student and corporate improv workshops all over the country and ha
 
 I've also spent the past five years working at a tech startup, and I understand the team challenges that come with fast growth, market uncertainty, and major product pivots.
 
-## Improv
+## About Improv
 
 At its best, improv is the height of co-creation. We're always improvising, making things up as we go along, but it's really hard to do well. For improv to be good, the performers must deeply trust one another. Only with trust will each performer be willing to take a risk.
 
@@ -21,6 +21,8 @@ No wonder the tools and techniques of improv can be used to establish more effec
 Improv can give us a way back to a more open and fun way of being with one another, where there is space for whatever is happening, where there is the possibility of making gold from any "mistake," moment after moment.
 
 Now more than ever, we need a reminder of how to be together, in person or in our virtual spaces. Improv can be a big part of that reminder.
+
+## Play in Action
 
 ![IMGP0603](https://user-images.githubusercontent.com/13932601/116625778-75bb3380-a907-11eb-85f2-883a113aed87.jpg)
 
