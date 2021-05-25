@@ -1,4 +1,8 @@
-## About Me
+---
+title: About
+---
+
+## Me
 
 I started improvising in 2013, and have trained and performed at the top theaters in Chicago: Second City, iO, CIC, and more.
 
@@ -6,7 +10,7 @@ I have taught student and corporate improv workshops all over the country and ha
 
 I've also spent the past five years working at a tech startup, and I understand the team challenges that come with fast growth, market uncertainty, and major product pivots.
 
-## Why Improv
+## Improv
 
 At its best, improv is the height of co-creation. We're always improvising, making things up as we go along, but it's really hard to do well. For improv to be good, the performers must deeply trust one another. Only with trust will each performer be willing to take a risk.
 
