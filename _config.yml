@@ -30,7 +30,7 @@ url: "https://tullymcloughlin.github.io" # the base hostname & protocol for your
 github_username:  tullymcloughlin
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
