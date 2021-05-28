@@ -1,10 +1,10 @@
 # Site
-title: Porcupine Improv
+title: Porcupine Workshops
 tagline: 'Play for Everyone'
 description: >- # this means to ignore newlines until "baseurl:"
   Let's learn how to play together again.
 url: "https://tullymcloughlin.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "https://tullymcloughlin.github.io/improv/" # the subpath of your site, e.g. /blog
+baseurl: "/improv" # the subpath of your site, e.g. /blog
 
 # Me
 email: tully.mcloughlin@gmail.com
