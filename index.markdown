@@ -1,16 +1,14 @@
 ---
+layout: default
+title: Welcome!
 ---
 
-We need a fresh reminder of how to be together. Trust in one another is easily clouded over by the standard ways we interact.
+# Welcome!
 
-We forget how to return to a place of openness.
+We offer workshops for teams, in person or virtually.
 
-This is true even when we see each other in person. No surprise, then, that when we are forced to interact only in virtual spaces, it becomes that much more challenging to remain collaborative, to give the benefit of the doubt, to arrive with attention and presence.
+Drawing on methods from improv comedy, we work to bring out the natural creativity, attention, and joy in everyone, which deepen relationships and set the foundation for stronger communication and collaboration.
 
-The consequences of mistrust and miscommunication are great -- in personal relationships, in teams, in organizations.
+Who doesn't need some of that?
 
-Play is a magic elixir that returns to us our best qualities: listening, joy, attention, creativity, inclusivity. When we remember how to play, these qualities emerge naturally. When we sharpen these qualities intentionally, it becomes easier and more fun to play.
-
-Which -- as a positive side-effect for members and managers of any team -- makes the team function as a more adaptable, powerful, effective whole.
-
-That's why we do what we do. Work with us. Better yet, come play with us!
+![IMGP0603](https://user-images.githubusercontent.com/13932601/116625778-75bb3380-a907-11eb-85f2-883a113aed87.jpg)

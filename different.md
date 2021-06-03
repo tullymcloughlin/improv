@@ -1,4 +1,5 @@
 ---
+layout: page
 title: Why We're Different
 ---
 What sets us apart is a deep understanding of both sides of the workshop context: a lifetime of performing, and years of growing a business from the ground.
