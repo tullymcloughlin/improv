@@ -8,7 +8,7 @@
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
       <h1>
-        <a href="{{ site.baseurl }}">
+        <a href="{{ site.url }}{{ site.baseurl }}/">
           <img class="logo" src="https://raw.githubusercontent.com/tullymcloughlin/improv/gh-pages/assets/images/porcupine-improv-logo.png?raw=true" alt="Porcupine Workshops logo">
         </a>
       </h1>
@@ -25,23 +25,23 @@
         `layout: page` in the front-matter. See readme for usage.
       {% endcomment %}
 
-      <!--
+      
       {% assign pages_list = site.pages %}
       {% for node in pages_list %}
         {% if node.title != null %}
           {% if node.layout == "page" %}
-        -->
-          <!--
-            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{{{ site.url }}{{ site.baseurl }}/{{ page.url }}}}">{{ node.title }}</a>
+        
+            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.url }}{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a>
+            <!--
+            <a class="sidebar-nav-item" href="{{{{ site.url }}{{ site.baseurl }}/different.html">Why We're Different</a>
+            <a class="sidebar-nav-item" href="{{{{ site.url }}{{ site.baseurl }}/contact.html">Contact us</a>
+            <a class="sidebar-nav-item" href="{{{{ site.url }}{{ site.baseurl }}/in-action.html">Action!</a>
           -->
-          <a class="sidebar-nav-item" href="{{{{ site.url }}{{ site.baseurl }}/different.html">Why We're Different</a>
-          <a class="sidebar-nav-item" href="{{{{ site.url }}{{ site.baseurl }}/contact.html">Contact us</a>
-          <a class="sidebar-nav-item" href="{{{{ site.url }}{{ site.baseurl }}/in-action.html">Action!</a>
-          <!--
+          
           {% endif %}
         {% endif %}
       {% endfor %}
-    -->
+    
 
     </nav>
 
